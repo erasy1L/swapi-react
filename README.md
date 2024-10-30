@@ -18,10 +18,10 @@ cd swapi-react
 
 # Used libraries
 
-- react-hook-form
-- react-redux
-- react-router
-- daisyui
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+- [react-redux](https://github.com/reduxjs/react-redux)
+- [react-router](https://github.com/remix-run/react-router)
+- [daisyui](https://github.com/saadeghi/daisyui)
 
 # Features
 
