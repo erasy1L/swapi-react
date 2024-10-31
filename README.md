@@ -14,7 +14,9 @@ git clone https://github.com/erasy1L/swapi-react
 cd swapi-react
 ```
 
-- Run with: ``npm run dev``
+Install with ``npm install``
+
+Run with: ``npm run dev``
 
 # Used libraries
 
